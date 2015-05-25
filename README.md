@@ -1,2 +1,2 @@
-PyPassword - Generate password list based on your pattern
---------------
+**PyPassword - Generate password list based on your pattern**
+
